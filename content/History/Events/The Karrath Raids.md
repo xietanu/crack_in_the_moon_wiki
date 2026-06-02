@@ -1,0 +1,8 @@
+---
+title: The Karrath Raids
+---
+As the first people made their way up the Verin valley during the [[Age of Arrival]], farming the fertile lowlands and drawing on the gifts of the river, the early settlements took shape through hard work and harder seasons. The north proved more difficult. As settlements spread toward the highland edges and the open steppe, the orcs — who called themselves the Karrath — emerged from the hills. What followed was a period of sustained savage raiding that history remembers as the Karrath Raids: villages burned, harvests destroyed, families killed or driven south. The conflict lasted the better part of three generations, and left a mark on the northern character that can still be felt today.
+
+Peace came not through force of arms alone, but through an act of unlikely courage. A young prince, named Edran, from the settlements that would become Valdenmarch (see [[The Seven Kingdoms]]) led a diplomatic party north to negotiate an end to the raids. His delegation was captured and held by the Karrath war-leader. During his captivity, through long months of close quarters and honest argument and discussion, something shifted. He fell in love with the war-leader's daughter, Selen. Their marriage brought the Raids to a close. The Karrath withdrew to the mountain settlement of [[Wyrm's Roost]], where many of their descendants remain.
+
+The end of the Karrath Raids and the love and bravery of Edran and Selen is remembered the popular musical [[The Wandering Prince]].
