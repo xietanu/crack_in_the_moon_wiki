@@ -17,8 +17,10 @@ This has led to groups of adventures setting up trade to do the dangerous and un
 
 ## Where to start
 
-Here are some fun options:
-- The [[History of Verintal]] - The history of Verintal over the last 600 years, broken into 9 eras.
-- [[Nordmarch]] - the northernmost region of Verintal, and the initial setting of the campaign.
-- The [[Gods]] - the setting uses the Celtic pantheon with a few tweaks.
-- [[The Wandering Prince]] - A popular romantic musical, recounting the history of how a forbidden romance between a human prince and the daughter of an orcish war chief brought about a peaceful end to [[The Karrath Raids]] during the [[Age of Arrival]].
+Want some jumping off points? Here are some tasters:
+- Read about the [[History of Verintal]] over the last 500 years, from [[the Age of Arrival]] to the era of [[Reconstruction]] following the [[Cataclysm]].
+- Discover [[Nordmarch]], the northernmost region of Verintal and the initial setting of the campaign.
+- Explore [[Arawn]]'s importance to the kingdom and her connection to the [[River Verin]].
+- Find out which [[Species of Verintal]] are most common and how they live together.
+- Read about the Kingdom's most popular play, a musical called [[The Wandering Prince]], which is based on the unlikely but true story of a forbidden romance between an orc and a human brought an end to the [[The Karrath Raids]] during [[the Age of Arrival]].
+- Learn a common drinking song and about how [[Good King Aldric]] gave the away the kingdom.
