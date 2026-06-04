@@ -10,6 +10,8 @@ The most widely performed play in the kingdom. It concerns Prince Edran of Valde
 
 Audiences love the play for its sweeping romance with a hard-won happy ending. The capture is exciting. The arguments are electric. A leading pair with real chemistry make the audience swoon. The battle and Kath's death are devastating in the way good tragedy should be. The conversion and marriage feel earned. The final words add a poignancy that stick with the audience.
 
+The play was also somewhat controversial when first performed for how sympathetically it presents orcish culture of the Karrath, as well as including a kiss between a member of the nobility and an orc. Prior to the play, the Karrath culture was generally perceived as being somewhat backwards and brutal, with the savagery of the Karrath Raids being most of what people knew about them. The play presents a more nuanced view of their culture, and introduced audiences to the orcish poetry cords. The controversy, however, largely served to get people talking about it and drove its popularity.
+
 ---
 
 ### Major Characters
